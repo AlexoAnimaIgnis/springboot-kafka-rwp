@@ -22,6 +22,7 @@
     </developers>
     <modules>
         <module>kakfa-producer-wikimedia</module>
+        <module>kafka-consumer-wikimedia</module>
     </modules>
     <scm>
         <connection/>
