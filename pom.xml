@@ -20,12 +20,18 @@
     <developers>
         <developer/>
     </developers>
+    <modules>
+        <module>kakfa-producer-wikimedia</module>
+    </modules>
     <scm>
         <connection/>
         <developerConnection/>
         <tag/>
         <url/>
     </scm>
+
+    <packaging>pom</packaging>
+
     <properties>
         <java.version>17</java.version>
     </properties>
